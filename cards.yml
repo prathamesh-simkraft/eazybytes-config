@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0.0
+
+cards:
+  message: Welcome to EazyBank Cards related local APIs
+  contactDetails:
+    name: Prathamesh B - Developer
+    email: prathamesh@eazybank.com
+  onCallSupport:
+    - (111) 222-3456
+    - (333) 444-5678

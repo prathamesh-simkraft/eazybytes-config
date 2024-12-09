@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0.0
+
+cards:
+  message: Welcome to EazyBank Cards related Prod APIs
+  contactDetails: 
+    name: Hoshedar Irani - Product Owner
+    email: hoshedar@eazybank.com
+  onCallSupport:
+    - (333) 444-5678
+    - (555) 666-7890

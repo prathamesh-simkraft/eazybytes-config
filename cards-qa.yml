@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0.0
+
+cards:
+  message: Welcome to EazyBank Cards related local APIs
+  contactDetails: 
+    name: Arnold Dcunha - Developer
+    email: arnold@eazybank.com
+  onCallSupport:
+    - (222) 333-4567
+    - (444) 555-6789

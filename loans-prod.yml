@@ -1,0 +1,14 @@
+
+      
+build:
+  version: 1.0.0
+
+
+loans:
+  message: Welcome to EazyBank loans related prod APIs
+  contactDetails: 
+    name: Sachin Virkar - Product Owner
+    email: sachin@eazybank.com
+  onCallSupport:
+    - (982) 134-9872
+    - (761) 389-2984

@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0.0
+
+loans:
+  message: Welcome to EazyBank Loans related local APIs
+  contactDetails: 
+    name: Pratik Raut - Developer
+    email: pratik@eazybank.com
+  onCallSupport:
+    - (123) 456-7890
+    - (987) 654-3210
