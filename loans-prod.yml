@@ -5,7 +5,7 @@ build:
 
 
 loans:
-  message: Welcome to EazyBank loans related prod APIs
+  message: Welcome to EazyBank loans related Production APIs
   contactDetails: 
     name: Sachin Virkar - Product Owner
     email: sachin@eazybank.com
