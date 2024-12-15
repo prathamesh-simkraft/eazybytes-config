@@ -6,7 +6,7 @@ accounts:
   message: Welcome to EazyBank Accounts related QA APIs
   contactDetails: 
     name: Smith Roy - Developer
-    email: {cipher}3b3ce02989a7266bc3ef87708daca1b4c48b07cd64e96b7ab8938d6759a7fcfc4a0eed8e157f6ad6fcdf040c4eb757e2
+    email: "{cipher}3b3ce02989a7266bc3ef87708daca1b4c48b07cd64e96b7ab8938d6759a7fcfc4a0eed8e157f6ad6fcdf040c4eb757e2"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
