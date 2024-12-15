@@ -3,7 +3,7 @@ build:
   version: 2.0.0
 
 cards:
-  message: Welcome to EazyBank Cards related local APIs
+  message: Welcome to EazyBank Cards related Quality Assurance APIs
   contactDetails: 
     name: Arnold Dcunha - Developer
     email: arnold@eazybank.com
