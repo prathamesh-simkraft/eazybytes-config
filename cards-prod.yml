@@ -3,7 +3,7 @@ build:
   version: 1.0.0
 
 cards:
-  message: Welcome to EazyBank Cards related Production APIs
+  message: Welcome to EazyBank Cards related prod APIs
   contactDetails: 
     name: Hoshedar Irani - Product Owner
     email: hoshedar@eazybank.com
