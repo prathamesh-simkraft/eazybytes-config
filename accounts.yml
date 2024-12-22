@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: Welcome to EazyBank Accounts related default APIs
+  message: Welcome to EazyBank Accounts related local APIs
   contactDetails: 
     name: John Doe - Developer
     email: john@eazybank.com
