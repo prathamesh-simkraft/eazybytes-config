@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: Welcome to EazyBank Accounts related docker APIs
+  message: Welcome to EazyBank Accounts related default APIs
   contactDetails: 
     name: John Doe - Developer
     email: john@eazybank.com
